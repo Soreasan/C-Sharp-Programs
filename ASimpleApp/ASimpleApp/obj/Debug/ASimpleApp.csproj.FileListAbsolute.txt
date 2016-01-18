@@ -1,0 +1,9 @@
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Properties.Resources.resources
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb
