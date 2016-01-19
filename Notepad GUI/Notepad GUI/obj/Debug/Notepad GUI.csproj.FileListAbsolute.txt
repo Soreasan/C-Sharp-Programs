@@ -1,0 +1,9 @@
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\bin\Debug\Notepad GUI.exe.config
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\bin\Debug\Notepad GUI.exe
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\bin\Debug\Notepad GUI.pdb
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad GUI.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad_GUI.Form1.resources
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad_GUI.Properties.Resources.resources
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad GUI.csproj.GenerateResource.Cache
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad GUI.exe
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\Notepad GUI\Notepad GUI\obj\Debug\Notepad GUI.pdb
