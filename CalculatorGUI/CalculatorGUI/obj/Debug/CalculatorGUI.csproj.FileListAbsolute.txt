@@ -1,0 +1,1 @@
+C:\Users\Kenneth\Documents\GitHub\C-Sharp-Programs\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
